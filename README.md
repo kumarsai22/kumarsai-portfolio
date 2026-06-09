@@ -56,6 +56,7 @@ Oct 2023 – Present (2 Years 8 Months)
 
 ### AWS Cloud Practitioner Essentials
 Completed June 2026
+📄 AWS Training Certificate uploaded in this repository.
 
 ---
 
